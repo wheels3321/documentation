@@ -1,5 +1,7 @@
 ## Detailed Install Using The SidePilot App ##
 
+this instructions for Open Solo 2.5-RC1 Install using SidePilot app on iOS but it have a new Version 2.5-RC3 but use same instructions with Open Solo 2.5-RC3 where it says 2.5-RC1 use 2.5-RC3 and in the future when it have a new version use this instructions with the new versions too. if the new versions don't have  new instructions with the new versions
+
 1. **Download packages:** With your device connected to the internet, go into the SidePilot 'Help & Settings' menu, and tap the '3DR Solo Firmware Upgrade' menu and download the Open Solo Clean Install packages (solo and controller). You can do this either before or after connecting to Solo's WiFi_.  The installation packages are 75MB each, so it will take a little longer to download than you may be used to. If you don't see the Firmware Updates menu, make sure you have 3DR Solo selected as your connection type.
 
 2. **Connect:** Once you've downloaded both, connect your mobile device to the Solo WiFi and tap the connect button in the top right corner of the SidePilot main screen. Ensure you begin receiving telemetry data before continuing. Again, your solo and controller must be fully charged, powered on, paired, connected, and not malfunctioning. 
@@ -25,3 +27,6 @@
    
 ### Installation Complete! ### 
 Proceed to the [post-installation instructions!](../master/install_post.md)
+
+
+
